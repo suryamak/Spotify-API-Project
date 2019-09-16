@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"net/url"
+	"fmt"
 	"os"
 
 	"github.com/joho/godotenv"
